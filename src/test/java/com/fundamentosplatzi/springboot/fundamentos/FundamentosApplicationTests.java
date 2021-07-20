@@ -10,4 +10,11 @@ class FundamentosApplicationTests {
 	void contextLoads() {
 	}
 
+    @Test
+    void main() {
+    }
+
+    @Test
+    void run() {
+    }
 }
