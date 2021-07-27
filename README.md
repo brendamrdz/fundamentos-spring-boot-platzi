@@ -11,7 +11,7 @@ Java Spring Boot (Spring Boot) is a tool that makes developing web application a
 3. The ability to create standalone applications
 
 ## Java Spring Boot main features
--Create stand-alone Spring applications
+- Create stand-alone Spring applications
 
 - Embed Tomcat, Jetty or Undertow directly (no need to deploy WAR files)
 
@@ -22,3 +22,9 @@ Java Spring Boot (Spring Boot) is a tool that makes developing web application a
 - Provide production-ready features such as metrics, health checks, and externalized configuration
 
 - Absolutely no code generation and no requirement for XML configuration 
+
+## What is a Dependency?
+
+
+
+## What is Inversion of Control?
