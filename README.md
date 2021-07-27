@@ -3,7 +3,7 @@
 Microservice is an application development architecture that enables you to build and deploy services that run independently. So in this an application is would consist of a number of independent microservices.
 
 In this architecture, each service is lightweight and runs its own processes. At the end of the day each microservice, though independent work together with other microservices to achieve a complete business application.
-
+https://github.com/brendamrdz/fundamentos-spring-boot-platzi/blob/main/images/microservices.png?raw=true
 ## What is Java Spring Boot?
 Java Spring Boot (Spring Boot) is a tool that makes developing web application and microservices with Spring Framework faster and easier through three core capabilities:
 1. Autoconfiguration
